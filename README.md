@@ -12,6 +12,10 @@ DB에 등록된 도서, 고객, 주문 등의 정보를 관리할 수 있고 엑
 ## 주요 기능
 ### 1. 도서 관리
 ![도서관리](https://user-images.githubusercontent.com/113095585/209297034-96c23cfb-949d-4235-957d-12ed3789c7c7.png)
+![도서관리 수정](https://user-images.githubusercontent.com/113095585/209299970-ebf25723-4b6c-4d7c-b27e-a8fe2896a950.png)
+![도서관리 삭제](https://user-images.githubusercontent.com/113095585/209299974-6a187fb8-2227-4870-be46-631b65e9a136.png)
+![도서관리 저장](https://user-images.githubusercontent.com/113095585/209299981-35385355-55f7-4330-903d-7cc9a4f33d97.png)
+
 - 번호, 도서명, 출판사, 가격 순으로 도서의 정보를 DB에 추가할 수 있다.
 - 도서명을 입력받고 해당 도서의 가격을 수정할 수 있다.
 - 도서명을 입력받고 해당 도서를 삭제할 수 있다.
