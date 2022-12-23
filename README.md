@@ -23,6 +23,10 @@ DB에 등록된 도서, 고객, 주문 등의 정보를 관리할 수 있고 엑
 
 ### 2. 고객 관리
 ![고객관리](https://user-images.githubusercontent.com/113095585/209297247-943a3b08-65e1-441a-87f6-ba8d549e2e6b.png)
+![고객관리 수정](https://user-images.githubusercontent.com/113095585/209300506-4ade6126-8d84-4d6e-a0f6-3d0f4caaf7ec.png)
+![고객관리 삭제](https://user-images.githubusercontent.com/113095585/209300518-26423ea6-8bc6-4e73-9977-cbd6685bf103.png)
+![고객관리 저장](https://user-images.githubusercontent.com/113095585/209300549-a2919f2a-a108-458a-836e-198556c3433e.png)
+
 - 번호, 고객명, 주소, 휴대전화 순으로 고객의 정보를 DB에 추가할 수 있다.
 - 고객 번호를 입력받고 해당 고객의 성명, 주소, 휴대전화를 수정할 수 있다.
 - 고객명을 입력받고 해당 고객을 삭제할 수 있다.
@@ -30,6 +34,9 @@ DB에 등록된 도서, 고객, 주문 등의 정보를 관리할 수 있고 엑
 
 ### 3. 주문 하기
 ![주문하기](https://user-images.githubusercontent.com/113095585/209299060-91423188-ebae-4502-9521-8211bc4185f4.png)
+![주문하기 삭제](https://user-images.githubusercontent.com/113095585/209300565-a4d33151-a568-465f-a5e6-204548a2e804.png)
+![주문하기 저장](https://user-images.githubusercontent.com/113095585/209300572-97fca65d-374e-4332-b0b7-9271a651d02a.png)
+
 - 번호, 고객 번호, 도서 번호, 도서 가격, 주문 날짜 순으로 주문 정보를 DB에 추가할 수 있다.
 - 주문 번호를 입력받고 해당 주문을 삭제할 수 있다.
 - DB에 저장된 주문 리스트를 엑셀 파일로 D드라이브 경로에 저장할 수 있다.
